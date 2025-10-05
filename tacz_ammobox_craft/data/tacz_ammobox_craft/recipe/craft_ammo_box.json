@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "id": "tacz:ammo_box",
+    "components": {
+      "minecraft:custom_data": "{Creative: 1b}"
+    }
+  },
+  "pattern": [
+    "PNP",
+    "PBP",
+    "PPP"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    }
+  }
+}

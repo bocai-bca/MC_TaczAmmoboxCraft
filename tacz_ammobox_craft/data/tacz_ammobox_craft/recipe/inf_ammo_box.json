@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NHN",
+    "NAN",
+    "NBN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "A": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "H": {
+      "item": "minecraft:heavy_core"
+    }
+  },
+  "result": {
+    "id": "tacz:ammo_box",
+    "components": {
+      "minecraft:custom_data": "{AllTypeCreative: 1b}"
+    }
+  }
+}
